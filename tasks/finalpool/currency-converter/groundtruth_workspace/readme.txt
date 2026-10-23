@@ -1,1 +1,0 @@
-Groundtruth data for currency-converter
